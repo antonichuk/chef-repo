@@ -1,4 +1,5 @@
-chef-solo-demo
+Developing cookbooks
+chef-solo 
 ==============
 
 1) Copy the whole application to the node (system).
