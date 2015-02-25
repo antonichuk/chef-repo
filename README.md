@@ -14,6 +14,3 @@ chef-solo -v
 4) After that execute the chef-solo using
 
 chef-solo -c solo.rb -j node.json
-
-
-Enjoy Coding..!
