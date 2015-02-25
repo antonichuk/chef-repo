@@ -1,0 +1,6 @@
+{
+  "user": {
+    "name":"amitpatel"
+  },
+  "run_list":["recipe[java]","recipe[tomcat]"]
+}
